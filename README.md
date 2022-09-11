@@ -2,7 +2,7 @@
 
   
 
-###Toy Data example:
+## Toy Data example:
 dfkndlfd
 Predicting the apparent temperature based on the wind speed.
 Actual temperature is ~27 C.
@@ -17,7 +17,7 @@ Actual temperature is ~27 C.
 ---
 
 
-### Linear regression on live data (multidimensional)
+## Linear regression on live data (multidimensional)
 - Datensatz von:
 ​https://www.kaggle.com/datasets/budincsevity/szeged-weather
 
